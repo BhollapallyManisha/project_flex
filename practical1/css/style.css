@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(77, 145, 77)
+}
+table{
+    padding: 5px;
+    margin-left:35%;
+    border:1px solid white;
+}
+.movies, .upcomingmovies{
+    height: 250px;
+    width: 250px;
+    display: flex;
+    margin: 35px;
+}
+.movieimg{
+    padding-right: 20px;
+}
