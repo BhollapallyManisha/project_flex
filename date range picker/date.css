@@ -17,3 +17,12 @@ input{
     font-family: arial;
  
 }
+h1 :hover{
+    background-color: black;
+    color:white;
+    border-radius: 15px;
+ }
+h1{
+    text-align: center;
+}
+
